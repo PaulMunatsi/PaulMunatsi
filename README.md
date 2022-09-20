@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PaulMunatsi
-- 👀 I’m interested in DataScience with Python 
-- 🌱 I’m currently learning Responsive Web Designing ⁷
-- 💞️ I’m looking to collaborate on Data Science Projects 
+- 👀 I’m Software Engineer, focusing on HTML, CSS, JavaScript, MongoDB and React.
+- 💞️ I’m looking to collaborate on React Projects 
 - 📫 How to reach me: email paulpmunatsi@gmail.com
 
 <!---
